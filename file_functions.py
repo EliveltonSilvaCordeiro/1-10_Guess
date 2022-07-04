@@ -390,11 +390,11 @@ def summarize_player(file_name, file_number):
                   f"Missed:     {random_missed} \n")
 
             print(f'Approximately, "{search_for}" chances in guessing a random number of 1-10 are of: ')
-            print(f'\n{100 - user_attempts / play_counter * 1.1:.2f}%')
+            print(f'{100 - user_attempts / play_counter * 1.1:.2f}%')
 
             if user_errors > 0:
 
-                print(f'Without counting "{search_for}" errors, the chances are of: ')
+                print(f'\nWithout counting "{search_for}" errors, the chances are of: ')
                 print(f"{100 - (user_attempts - user_errors) / play_counter * 1.1:.2f}%\n")
 
             search_again = input("\nSee results of another player? Y or N?: ").upper()
