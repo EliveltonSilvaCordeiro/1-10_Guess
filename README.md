@@ -22,3 +22,7 @@ This program is a game where the user tries to guess a number between 1 to 10, t
 - `use_existing_file` : Use a pre-existing file that was created in past games, using any other kind of file will result in errors
 
 - `summarize_player` : Write the name of one player, to see their total data for all their games and their winning chances
+
+## 📁 Project Acess
+
+It is possible to download the compacted project <a href="https://github.com/EliveltonSilvaCordeiro/1-10_Guess/archive/refs/heads/main.zip" target="_blank">here</a> or download a executable file created with pyinstaller  <a href="https://download1474.mediafire.com/ipy3rc275uqg/wxn0ogf1qt6aqla/1-10+Guess.exe" target="_blank">here</a>
