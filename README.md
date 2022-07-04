@@ -11,7 +11,7 @@
 
 This program is a game where the user tries to guess a number between 1 to 10, the base functions depends of the random and datetime libraries and a self created file, this project was made with intention of colecting my friends play data to aproximate their luck.
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Project Functions
 
 - `start_game` : This function is the own game, it asks for a player name and collect the data of the attempts saving it in a csv file
 
